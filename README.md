@@ -1,3 +1,4 @@
+- [osmoscraft/osmosmemo: Turn GitHub into a bookmark manager](https://github.com/osmoscraft/osmosmemo)
 
 # About
 
